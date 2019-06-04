@@ -1,4 +1,4 @@
-**PSO-Simulation**
+**PSO-Simulation**\
 This code simulated PSO (Particle Swarm optimization) algorithm with five agents for path-finding.\
 There are two classes: *(1) Init-map.py and (2) PSOwithObstacles.py*.\
 *Init-map.py* will create a grid map whose sizes are 10x10 cells. On the map, there are several obstacles and each obstacles is corresponding a cell.\
